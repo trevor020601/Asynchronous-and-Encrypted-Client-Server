@@ -1,0 +1,15 @@
+D:\College Stuff\CMPS 358\p2client_C00441253_C00445623\bin\Debug\net6.0\p2client_C00441253_C00445623.exe
+D:\College Stuff\CMPS 358\p2client_C00441253_C00445623\bin\Debug\net6.0\p2client_C00441253_C00445623.deps.json
+D:\College Stuff\CMPS 358\p2client_C00441253_C00445623\bin\Debug\net6.0\p2client_C00441253_C00445623.runtimeconfig.json
+D:\College Stuff\CMPS 358\p2client_C00441253_C00445623\bin\Debug\net6.0\p2client_C00441253_C00445623.dll
+D:\College Stuff\CMPS 358\p2client_C00441253_C00445623\bin\Debug\net6.0\p2client_C00441253_C00445623.pdb
+D:\College Stuff\CMPS 358\p2client_C00441253_C00445623\obj\Debug\net6.0\p2client_C00441253_C00445623.csproj.AssemblyReference.cache
+D:\College Stuff\CMPS 358\p2client_C00441253_C00445623\obj\Debug\net6.0\p2client_C00441253_C00445623.GeneratedMSBuildEditorConfig.editorconfig
+D:\College Stuff\CMPS 358\p2client_C00441253_C00445623\obj\Debug\net6.0\p2client_C00441253_C00445623.AssemblyInfoInputs.cache
+D:\College Stuff\CMPS 358\p2client_C00441253_C00445623\obj\Debug\net6.0\p2client_C00441253_C00445623.AssemblyInfo.cs
+D:\College Stuff\CMPS 358\p2client_C00441253_C00445623\obj\Debug\net6.0\p2client_C00441253_C00445623.csproj.CoreCompileInputs.cache
+D:\College Stuff\CMPS 358\p2client_C00441253_C00445623\obj\Debug\net6.0\p2client_C00441253_C00445623.dll
+D:\College Stuff\CMPS 358\p2client_C00441253_C00445623\obj\Debug\net6.0\refint\p2client_C00441253_C00445623.dll
+D:\College Stuff\CMPS 358\p2client_C00441253_C00445623\obj\Debug\net6.0\p2client_C00441253_C00445623.pdb
+D:\College Stuff\CMPS 358\p2client_C00441253_C00445623\obj\Debug\net6.0\p2client_C00441253_C00445623.genruntimeconfig.cache
+D:\College Stuff\CMPS 358\p2client_C00441253_C00445623\obj\Debug\net6.0\ref\p2client_C00441253_C00445623.dll

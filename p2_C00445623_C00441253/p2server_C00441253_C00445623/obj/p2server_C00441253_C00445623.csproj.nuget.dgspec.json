@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\College Stuff\\CMPS 358\\p2server_C00441253_C00445623\\p2server_C00441253_C00445623.csproj": {}
+  },
+  "projects": {
+    "D:\\College Stuff\\CMPS 358\\p2server_C00441253_C00445623\\p2server_C00441253_C00445623.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\College Stuff\\CMPS 358\\p2server_C00441253_C00445623\\p2server_C00441253_C00445623.csproj",
+        "projectName": "p2server_C00441253_C00445623",
+        "projectPath": "D:\\College Stuff\\CMPS 358\\p2server_C00441253_C00445623\\p2server_C00441253_C00445623.csproj",
+        "packagesPath": "C:\\Users\\Trevo\\.nuget\\packages\\",
+        "outputPath": "D:\\College Stuff\\CMPS 358\\p2server_C00441253_C00445623\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Trevo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
